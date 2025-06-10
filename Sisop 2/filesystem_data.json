@@ -1,0 +1,60 @@
+{
+  "file_system": {
+    "/": {
+      "type": "directory",
+      "created": "2025-06-05T15:41:19.963467",
+      "modified": "2025-06-05T15:47:37.485669",
+      "size": 0,
+      "permissions": "rwxr-xr-x",
+      "owner": "user",
+      "children": {
+        "bozo.py": "/bozo.py",
+        "tugas": "/tugas"
+      }
+    },
+    "/bozo.py": {
+      "type": "file",
+      "created": "2025-06-05T15:47:25.441467",
+      "modified": "2025-06-05T15:47:25.441479",
+      "size": 0,
+      "permissions": "rw-r--r--",
+      "owner": "user",
+      "content": ""
+    },
+    "/tugas": {
+      "type": "directory",
+      "created": "2025-06-05T15:47:37.485652",
+      "modified": "2025-06-10T19:33:16.586978",
+      "size": 0,
+      "permissions": "rwxr-xr-x",
+      "owner": "user",
+      "children": {
+        "tugas": "/tugas/tugas",
+        "gg": "/tugas/gg"
+      }
+    },
+    "/tugas/tugas": {
+      "type": "directory",
+      "created": "2025-06-05T15:47:46.375880",
+      "modified": "2025-06-05T15:47:46.375894",
+      "size": 0,
+      "permissions": "rwxr-xr-x",
+      "owner": "user",
+      "children": {
+        "tugas": "/tugas/tugas"
+      }
+    },
+    "/tugas/gg": {
+      "type": "directory",
+      "created": "2025-06-10T19:33:16.586978",
+      "modified": "2025-06-10T19:33:16.586978",
+      "size": 0,
+      "permissions": "rwxr-xr-x",
+      "owner": "user",
+      "children": {}
+    }
+  },
+  "current_directory": "/tugas/tugas",
+  "used_space": 0,
+  "disk_size": 1024
+}
